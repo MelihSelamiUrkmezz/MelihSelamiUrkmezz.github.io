@@ -89,7 +89,7 @@ body {
     text-align:center;
     font-size:25px;
     transform:rotate(-90deg);
-    background:transparent;
+    background:black;
     color:#fff;
     position:fixed;
     left:0;
