@@ -79,7 +79,7 @@ body {
     padding-bottom:10vh;
 }
 #middle h1 {
-    color:#c70c0c;
+    color:#750b0b;
     font-size:70px;
     text-decoration:underline;
 }
@@ -89,7 +89,7 @@ body {
     text-align:center;
     font-size:25px;
     transform:rotate(-90deg);
-    background:black;
+    background:transparent;
     color:#fff;
     position:fixed;
     left:0;
@@ -137,7 +137,7 @@ body {
     border-radius:100px 100px 0px 0px;
 }
 #about:hover {
-    background:rgba(255,50,50,0.9);
+    background:rgba(255, 50, 50, 0.9);
     cursor:pointer;
 }
 #work:hover {
